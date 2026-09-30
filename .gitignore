@@ -1,0 +1,22 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données (trop volumineuses / sensibles pour être versionnées)
+data/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
